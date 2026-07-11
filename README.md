@@ -196,7 +196,7 @@ The Prediction page allows users to:
 
 ### Technologies
 
-Python • SQL • MySQL • Streamlit • Plotly • Pandas
+Python • SQL • Streamlit • Plotly • Pandas
 
 ---
 
